@@ -10,4 +10,7 @@ public class HelloWorld{
 	private void f2(){
 		// placeholder method (v2.0)
 	}
+	private void f3() {
+		//Placeholder method (V3.0)
+	}
 }
